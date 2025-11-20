@@ -10,6 +10,13 @@
   <img src="GameScreen.jpg" alt="Game Screen" width="45%" />
 </p>
 
+## 🎨 Credits & Assets
+
+### Graphics
+**Game sprites provided by [Micro Roguelike Asset Pack](https://kenney.nl/assets/micro-roguelike)**
+
+---
+
 ### Key Features
 - 🗺️ **Procedurally Generated Mazes** - Every playthrough offers a unique maze layout using the Recursive Backtracker algorithm
 - 📱 **Mobile-Optimized Controls** - Intuitive swipe controls (with keyboard support for testing)
