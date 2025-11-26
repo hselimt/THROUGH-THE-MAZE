@@ -1,14 +1,14 @@
-# THROUGH THE MAZE
-
-## 🎯 Game Overview
-
-**Through The Maze** is a fast-paced 2D mobile game where players must navigate through an infinite procedurally generated maze while collecting crystals and avoiding various enemy types. The game features progressive difficulty, power-ups, and an endless mode for competitive high score grinding.
-
-<p align="center">
-  <img src="MenuScreen.jpg" alt="Menu Screen" width="45%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="GameScreen.jpg" alt="Game Screen" width="45%" />
-</p>
+<div align="center">
+  <h1>THROUGH THE MAZE</h1>
+  
+  <p>
+    <b>Fast-paced 2D mobile game where players must navigate through an infinite procedurally generated maze while collecting crystals and avoiding various enemy types. The game features progressive difficulty, power-ups, and an endless mode for competitive high score grinding.</b>
+  </p>
+  
+  <br>
+  
+  <img src="TTM.gif" alt="Game Screen" width="50%">
+</div>
 
 ## 🎨 Credits & Assets
 
