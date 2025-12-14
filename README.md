@@ -2,12 +2,11 @@
   <h1>THROUGH THE MAZE</h1>
   
   <p>
-    <b>Fast-paced 2D mobile game where players must navigate through an infinite procedurally generated maze while collecting crystals and avoiding various enemy types. The game features progressive difficulty, power-ups, and an endless mode for competitive high score grinding.</b>
+    <b>Fast-paced 2D mobile game where players must navigate through a maze while collecting crystals/collectibles and avoiding various enemy types. The game features progressive difficulty, power-ups, and an endless mode for competitive high score grinding.</b>
   </p>
-  
-  <br>
-  
-  <img src="TTM.gif" alt="Game Screen" width="50%">
+
+https://github.com/user-attachments/assets/9b343a1b-604f-4761-971a-4ae5f09d2dbb
+
 </div>
 
 ## 🎨 Credits & Assets
@@ -18,7 +17,7 @@
 ---
 
 ### Key Features
-- 🗺️ **Procedurally Generated Mazes** - Every playthrough offers a unique maze layout using the Recursive Backtracker algorithm
+- 🗺️ **Constant Maze**
 - 📱 **Mobile-Optimized Controls** - Intuitive swipe controls (with keyboard support for testing)
 - ⚡ **Progressive Difficulty** - Five structured levels that transition into infinite mode
 - 👾 **Four Enemy Types** - Each with unique behaviors and strategies
@@ -165,4 +164,4 @@ Freezes all enemies in place.
 ### High Score
 Your best score is saved locally and displayed on the main menu and HUD.
 
-*Developed with Unity 6.2 for iOS and Android*
+*Developed with Unity 6.2 for Android*
